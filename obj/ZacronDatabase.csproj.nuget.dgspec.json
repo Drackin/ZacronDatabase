@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Drackin\\source\\repos\\ZacronDatabase\\ZacronDatabase.csproj": {}
+    "C:\\Users\\Drackin\\Desktop\\ZacronDatabase\\ZacronDatabase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Drackin\\source\\repos\\ZacronDatabase\\ZacronDatabase.csproj": {
+    "C:\\Users\\Drackin\\Desktop\\ZacronDatabase\\ZacronDatabase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Drackin\\source\\repos\\ZacronDatabase\\ZacronDatabase.csproj",
+        "projectUniqueName": "C:\\Users\\Drackin\\Desktop\\ZacronDatabase\\ZacronDatabase.csproj",
         "projectName": "ZacronDatabase",
-        "projectPath": "C:\\Users\\Drackin\\source\\repos\\ZacronDatabase\\ZacronDatabase.csproj",
+        "projectPath": "C:\\Users\\Drackin\\Desktop\\ZacronDatabase\\ZacronDatabase.csproj",
         "packagesPath": "C:\\Users\\Drackin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Drackin\\source\\repos\\ZacronDatabase\\obj\\",
+        "outputPath": "C:\\Users\\Drackin\\Desktop\\ZacronDatabase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Drackin\\AppData\\Roaming\\NuGet\\NuGet.Config",

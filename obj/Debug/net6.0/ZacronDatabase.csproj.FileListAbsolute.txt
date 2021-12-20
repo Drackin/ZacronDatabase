@@ -1,0 +1,17 @@
+C:\Users\Drackin\Desktop\ZacronDatabase\bin\Debug\net6.0\ZacronDatabase.exe
+C:\Users\Drackin\Desktop\ZacronDatabase\bin\Debug\net6.0\ZacronDatabase.deps.json
+C:\Users\Drackin\Desktop\ZacronDatabase\bin\Debug\net6.0\ZacronDatabase.runtimeconfig.json
+C:\Users\Drackin\Desktop\ZacronDatabase\bin\Debug\net6.0\ZacronDatabase.dll
+C:\Users\Drackin\Desktop\ZacronDatabase\bin\Debug\net6.0\ref\ZacronDatabase.dll
+C:\Users\Drackin\Desktop\ZacronDatabase\bin\Debug\net6.0\ZacronDatabase.pdb
+C:\Users\Drackin\Desktop\ZacronDatabase\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Drackin\Desktop\ZacronDatabase\obj\Debug\net6.0\ZacronDatabase.csproj.AssemblyReference.cache
+C:\Users\Drackin\Desktop\ZacronDatabase\obj\Debug\net6.0\ZacronDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drackin\Desktop\ZacronDatabase\obj\Debug\net6.0\ZacronDatabase.AssemblyInfoInputs.cache
+C:\Users\Drackin\Desktop\ZacronDatabase\obj\Debug\net6.0\ZacronDatabase.AssemblyInfo.cs
+C:\Users\Drackin\Desktop\ZacronDatabase\obj\Debug\net6.0\ZacronDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Drackin\Desktop\ZacronDatabase\obj\Debug\net6.0\ZacronDatabase.csproj.CopyComplete
+C:\Users\Drackin\Desktop\ZacronDatabase\obj\Debug\net6.0\ZacronDatabase.dll
+C:\Users\Drackin\Desktop\ZacronDatabase\obj\Debug\net6.0\ref\ZacronDatabase.dll
+C:\Users\Drackin\Desktop\ZacronDatabase\obj\Debug\net6.0\ZacronDatabase.pdb
+C:\Users\Drackin\Desktop\ZacronDatabase\obj\Debug\net6.0\ZacronDatabase.genruntimeconfig.cache
