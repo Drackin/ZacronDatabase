@@ -1,5 +1,5 @@
 ﻿using Newtonsoft.Json.Linq;
-
+// todo: add new functions
 namespace ZacronDatabase
 {
     public class Database
